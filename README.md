@@ -4,7 +4,7 @@ Ruhly is a daily Islamic reflection app. Each day it gives the user one passage,
 
 **Status:** Launching November 2026.
 
-**Team:** Ruhly is built by Mazen Talsam and Zackariah Telsem. Zackariah leads product, design and content curation. Mazen built the engineering: the React and TypeScript client, the Supabase data model and security rules, all 18 Edge Functions, the six Claude-powered features, the push notification system, and support for 8 languages.
+**Team:** Ruhly is built by Mazen Talsam and Zackariah Telsem. Mazen leads engineering; Zackariah leads product, design and content.
 
 **At a glance:** about 1,000 curated passages · 8 languages, 2 of them right to left · 18 serverless functions · 6 AI features with per-user and global rate limits · 5 scheduled reminder types
 
